@@ -1,0 +1,410 @@
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe.config
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\NuGet.Frameworks.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\ZstdSharp.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.AssemblyReference.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.SuggestedBindingRedirects.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Dashboard.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Login.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Properties.Resources.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Registrasi.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.GenerateResource.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CoreCompileInputs.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CopyComplete
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.exe
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.pdb
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe.config
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.pdb
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\NuGet.Frameworks.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\ZstdSharp.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.pdb
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.AssemblyReference.cache
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.SuggestedBindingRedirects.cache
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Dashboard.resources
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Login.resources
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Properties.Resources.resources
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Registrasi.resources
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.GenerateResource.cache
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CoreCompileInputs.cache
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CopyComplete
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.exe
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.pdb
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Bunifu_UI_v1.52.dll
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.RJTextBox.resources
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDashboard.resources
+C:\projectpemro\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDataPasien.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe.config
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\NuGet.Frameworks.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\ZstdSharp.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.AssemblyReference.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.SuggestedBindingRedirects.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Dashboard.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDashboard.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDataPasien.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Login.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Properties.Resources.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Registrasi.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.RJTextBox.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.GenerateResource.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CoreCompileInputs.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CopyComplete
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.exe
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Dokter.frmEntryDokter.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.frmDataDokter.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.EF6.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.Linq.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe.config
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.pdb
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\NuGet.Frameworks.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\ZstdSharp.dll
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.pdb
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.AssemblyReference.cache
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Dashboard.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Dokter.frmEntryDokter.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDashboard.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.frmDataDokter.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDataPasien.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Login.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Properties.Resources.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Registrasi.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.RJTextBox.resources
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.GenerateResource.cache
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CoreCompileInputs.cache
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CopyComplete
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.exe
+D:\Semester 3\Sistem Basis Data\project\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.pdb
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe.config
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.pdb
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\NuGet.Frameworks.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\ZstdSharp.dll
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.pdb
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.AssemblyReference.cache
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Dashboard.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Dokter.frmEntryDokter.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDashboard.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.frmDataDokter.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDataPasien.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Login.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Properties.Resources.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Registrasi.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.RJTextBox.resources
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.GenerateResource.cache
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CoreCompileInputs.cache
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CopyComplete
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.exe
+D:\Semester 3\Pemrograman Lanjut\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe.config
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\NuGet.Frameworks.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.EF6.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.Linq.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\ZstdSharp.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Memory.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.AssemblyReference.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.SuggestedBindingRedirects.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Dashboard.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Dokter.frmEntryDokter.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDashboard.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.frmDataDokter.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Login.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Properties.Resources.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Registrasi.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.RJTextBox.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.GenerateResource.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CoreCompileInputs.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CopyComplete
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.exe
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Pasien.frmDataPasien.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Pasien.frmEntryPasien.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Obat.frmDataObat.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Obat.frmEntryObat.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Ruang_Inap.frmDataRuangInap.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Rekam_Medis.frmDataRekamMedis.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Ruang_Inap.frmEntryDataRuangInap.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Rekam_Medis.frmEntryDataRekamMedis.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Transaksi.frmDataTransaksi.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe.config
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.exe
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\AdminsitrasiRumahSakit.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\NuGet.Frameworks.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.EF6.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.Linq.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Memory.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\ZstdSharp.dll
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\BouncyCastle.Cryptography.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\EntityFramework.SqlServer.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\Google.Protobuf.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\K4os.Hash.xxHash.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\MySql.Data.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Buffers.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Data.SQLite.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.IO.Pipelines.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Memory.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.AssemblyReference.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.SuggestedBindingRedirects.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Dashboard.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Dokter.frmEntryDokter.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Obat.frmDataObat.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Obat.frmEntryObat.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Pasien.frmDataPasien.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Pasien.frmEntryPasien.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Rekam_Medis.frmDataRekamMedis.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Rekam_Medis.frmEntryDataRekamMedis.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Ruang_Inap.frmDataRuangInap.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Ruang_Inap.frmEntryDataRuangInap.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Transaksi.frmDataTransaksi.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.frmDashboard.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.frmDataDokter.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Login.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Properties.Resources.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Registrasi.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.RJTextBox.resources
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.GenerateResource.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CoreCompileInputs.cache
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.csproj.CopyComplete
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.exe
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.pdb
+D:\amikom\Semester 3\Pemrograman Lanjut\uas\update\AdminsitrasiRumahSakit\AdminsitrasiRumahSakit - no foreignkey\AdminsitrasiRumahSakit\obj\Debug\AdminsitrasiRumahSakit.Views.Data_Transaksi.frmEntryDataTransaksi.resources
